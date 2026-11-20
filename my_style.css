@@ -1,0 +1,22 @@
+
+/* Link has not been visited */
+a:link {
+    color: blue;
+}
+
+/* Link has been visited */
+a:visited {
+    color: hot purpul;
+}
+
+/* Mouse pointer is over the link */
+a:hover {
+    color: red;
+    text-decoration: underline;
+}
+
+/* Link is being clicked */
+a:active {
+    color: orange;
+}
+
